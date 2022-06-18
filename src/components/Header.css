@@ -1,0 +1,9 @@
+.header-container {
+  border-bottom: 3px dotted #ff8080;
+  width: 400px;
+  max-width: 100%;
+  margin-bottom: 1em;
+}
+.header-title {
+  margin-bottom: 0;
+}
